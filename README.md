@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Menia Gavriilidou</h1>
-<h3 align="left">A passionate computational biologist from Greece</h3>
+<h3 align="left">A passionate computational biologist from Greece🇬🇷</h3>
 
-- 🔭 I’m currently working as **a postdoctoral researcher** at the [Laboratory of Microbiology at Wageningen University](https://www.wur.nl/en/research-results/chair-groups/agrotechnology-and-food-sciences/biomolecular-sciences/laboratory-of-microbiology/people.htm)
+- 🔭 I am **a Life Sciences Researcher** specialized in **Microbiology** and **Computational Biology/Bioinformatics** living in The Netherlands🇳🇱.
 
 - 🌱 I’m currently learning **how to analyze data using Python**
 
 - 👨‍💻 Some examples of **my projects** are available at [https://agavriilidou.github.io/](https://agavriilidou.github.io/)
 
-- 📝 Find **my research output** at [Google Scholar](https://scholar.google.gr/citations?user=qv8D40oAAAAJ&hl=en) and at [Research@wur](https://research.wur.nl/en/persons/asimenia-gavriilidou)
+- 📝 Find **my research output** at [Google Scholar](https://scholar.google.gr/citations?user=qv8D40oAAAAJ&hl=en) and at [ORCID](https://orcid.org/0000-0003-0204-2223)
 - 📫 You can reach me at menia.gavr@gmail.com
 
 </p>

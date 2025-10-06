@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Menia Gavriilidou</h1>
 <h3 align="left">A passionate computational biologist from Greece🇬🇷</h3>
 
-- 🔭 I am **a Life Sciences Researcher** specialized in **Microbiology** and **Computational Biology/Bioinformatics** living in The Netherlands🇳🇱.
+- 🔭 I am **a Life Sciences Researcher** specialized in **Microbiology** and **Computational Biology/Bioinformatics** living in The Netherlands.
 
 - 🌱 I’m currently learning **how to analyze data using Python**
 
